@@ -9,11 +9,11 @@
   "projectType": "REGULAR",
   "projectAppType": "REGULAR",
   "hasSetupSection": false,
-  "owner": "admin",
+  "owner": "arnaud",
   "permissionsVersion": "V2",
   "permissions": [
     {
-      "user": "arnaud",
+      "user": "admin",
       "admin": true,
       "readProjectContent": false,
       "writeProjectContent": true,
@@ -157,7 +157,7 @@
     },
     "dkuProperties": []
   },
-  "name": "MTP_GIT_NEW",
+  "name": "MTP_GIT_NEW33",
   "projectStatus": "Sandbox",
   "imgPattern": 6,
   "metrics": {
@@ -223,7 +223,7 @@
     "lastModifiedOn": 1716930848116,
     "extendedProperties": {}
   },
-  "shortDesc": "The project *MTP_GIT* was created by John Smith on May 28th 2024",
+  "shortDesc": "Desc en vrac",
   "tags": [],
   "customFields": {},
   "checklists": {
