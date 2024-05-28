@@ -15,23 +15,7 @@
     {
       "user": "arnaud",
       "admin": true,
-      "readProjectContent": true,
-      "writeProjectContent": true,
-      "exportDatasetsData": true,
-      "readDashboards": false,
-      "writeDashboards": false,
-      "moderateDashboards": false,
-      "publishToDataCollections": true,
-      "shareToWorkspaces": true,
-      "runScenarios": false,
-      "manageDashboardAuthorizations": false,
-      "manageExposedElements": false,
-      "manageAdditionalDashboardUsers": false,
-      "executeApp": false
-    },{
-      "user": "zouave",
-      "admin": true,
-      "readProjectContent": true,
+      "readProjectContent": false,
       "writeProjectContent": true,
       "exportDatasetsData": true,
       "readDashboards": false,
@@ -173,8 +157,8 @@
     },
     "dkuProperties": []
   },
-  "name": "MTP_GIT2",
-  "projectStatus": "",
+  "name": "MTP_GIT",
+  "projectStatus": "Sandbox",
   "metrics": {
     "probes": [],
     "engineConfig": {
@@ -238,7 +222,7 @@
     "lastModifiedOn": 1716930848116,
     "extendedProperties": {}
   },
-  "shortDesc": "Zouzou",
+  "shortDesc": "The project *MTP_GIT* was created by John Smith on May 28th 2024",
   "tags": [],
   "customFields": {},
   "checklists": {
