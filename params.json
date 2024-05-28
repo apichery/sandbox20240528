@@ -15,7 +15,23 @@
     {
       "user": "arnaud",
       "admin": true,
-      "readProjectContent": false,
+      "readProjectContent": true,
+      "writeProjectContent": true,
+      "exportDatasetsData": true,
+      "readDashboards": false,
+      "writeDashboards": false,
+      "moderateDashboards": false,
+      "publishToDataCollections": true,
+      "shareToWorkspaces": true,
+      "runScenarios": false,
+      "manageDashboardAuthorizations": false,
+      "manageExposedElements": false,
+      "manageAdditionalDashboardUsers": false,
+      "executeApp": false
+    },{
+      "user": "zouave",
+      "admin": true,
+      "readProjectContent": true,
       "writeProjectContent": true,
       "exportDatasetsData": true,
       "readDashboards": false,
@@ -31,7 +47,7 @@
     }
   ],
   "additionalDashboardUsers": {
-    "users": []
+    "users": ["paula"]
   },
   "tutorialProject": false,
   "settings": {
@@ -157,8 +173,8 @@
     },
     "dkuProperties": []
   },
-  "name": "MTP_GIT",
-  "projectStatus": "Sandbox",
+  "name": "MTP_GIT2",
+  "projectStatus": "",
   "metrics": {
     "probes": [],
     "engineConfig": {
@@ -222,7 +238,7 @@
     "lastModifiedOn": 1716930848116,
     "extendedProperties": {}
   },
-  "shortDesc": "The project *MTP_GIT* was created by John Smith on May 28th 2024",
+  "shortDesc": "Zouzou",
   "tags": [],
   "customFields": {},
   "checklists": {
