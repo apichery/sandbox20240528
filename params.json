@@ -157,8 +157,9 @@
     },
     "dkuProperties": []
   },
-  "name": "MTP_GIT",
+  "name": "MTP_GIT_NEW",
   "projectStatus": "Sandbox",
+  "imgPattern": 6,
   "metrics": {
     "probes": [],
     "engineConfig": {
